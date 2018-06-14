@@ -12,7 +12,8 @@
 **目录 (Table of Contents)**
 
 # 效果截图
-![](http://ofmyguueq.bkt.clouddn.com/0211.gif)
+#### 功能的展示与实现
+![](http://ofmyguueq.bkt.clouddn.com/%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.gif)
 ## 想学习交流小程序的童鞋可以关注H5开发社区
 
 > 扫码关注送前端学习教程
@@ -55,8 +56,7 @@
 ├── app.js                   项目逻辑
 ├── app.wxss                 项目公共样式表
 └── app.json                 项目公共设置
-#### 功能的展示与实现
-![](http://ofmyguueq.bkt.clouddn.com/%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.gif)
+
 ###### 写到最后
 **码字不易，如果大家喜欢的话，就Star一下吧,项目地址，我会不定时更新的哦。 项目还存在很多缺陷，希望大家提出宝贵建议**
 点赞给stard的同时还可以关注H5开发社区送学习教程
